@@ -2,7 +2,7 @@
 An interactive and feature-rich Tic-Tac-Toe web application built using HTML, CSS, and JavaScript. This project includes player customization, score tracking, and a match-based gameplay system.
 
 # Live Demo
-[Web Link](https://addi5520.github.io/tic-tac-toe/)
+[Web Link](https://tic-tac-toe5520.netlify.app/)
 
 # Features
 - Interactive 2-player gameplay  
